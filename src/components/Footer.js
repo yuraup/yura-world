@@ -11,7 +11,7 @@ function Footer() {
 }
 
 const FooterWrapper = styled.div`
-  width: 90%;
+  width: 80%;
   height: 84px;
 
   display: flex;
@@ -21,7 +21,7 @@ const FooterWrapper = styled.div`
   background-color: ${({ theme }) => theme.colors.coolPink};
   opacity: 0.8;
   border-radius: 20px;
-  margin: 0 5% 0 5%;
+  margin: 0 10% 3% 10%;
 `;
 
 const FooterEmail = styled.p`
