@@ -3,7 +3,7 @@ import Main from './components/main';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import GlobalStyle from './styles/GlobalStyles';
-import Blog from './pages/logo';
+import Blog from './pages/Blog';
 import { ThemeProvider } from 'styled-components';
 import { defaultTheme } from './styles/theme';
 function App() {
